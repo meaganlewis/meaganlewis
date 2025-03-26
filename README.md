@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **meaganlewis/meaganlewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there 👋
+
+👩‍💻 I’m Meagan, a full-stack software engineer.
+
+🪕🏕️ I have a passion for learning, live music, and hiking.   
+
+📫 Find me on [LinkedIn](www.linkedin.com/in/meaganlewis).
+
+## My Skills
+JavaScript, TypeScript, React, Redux, HTML/CSS, XML, Tailwind, Bootstrap, Node.js, Express, MongoDB, SQL, PostgreSQL, Supabase, Postman, ESLint, Nodemon, JWT, Cors,
+Docker, Webpack, Vite, Vitest, Cypress, Jest, OpenTelemetry, Prometheus, Grafana, Jaeger, MUI, AI prompting/RAG/fine tuning, OAuth, documentation, technical editing
