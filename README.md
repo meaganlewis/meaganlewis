@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🪕🏕️ I have a passion for learning, live music, and hiking.   
 
-📫 Find me on [LinkedIn](www.linkedin.com/in/meaganlewis).
+📫 Find me on [LinkedIn](https://www.linkedin.com/in/meaganlewis/).
 
 ## My Skills
 JavaScript, TypeScript, React, Redux, HTML/CSS, XML, Tailwind, Bootstrap, Node.js, Express, MongoDB, SQL, PostgreSQL, Supabase, Postman, ESLint, Nodemon, JWT, Cors,
