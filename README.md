@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 📫 Find me on [LinkedIn](https://www.linkedin.com/in/meaganlewis/).
 
 ## My Skills
-JavaScript, TypeScript, React, Redux, HTML/CSS, XML, Tailwind, Bootstrap, Node.js, Express, MongoDB, SQL, PostgreSQL, Supabase, Postman, ESLint, Nodemon, JWT, Cors,
+JavaScript, TypeScript, React, Redux, HTML/CSS, XML, Git, GitHub, Tailwind, Bootstrap, Node.js, Express, MongoDB, SQL, PostgreSQL, Supabase, Postman, ESLint, Nodemon, JWT, Cors,
 Docker, Webpack, Vite, Vitest, Cypress, Jest, OpenTelemetry, Prometheus, Grafana, Jaeger, MUI, AI prompting/RAG/fine tuning, OAuth, documentation, technical editing
